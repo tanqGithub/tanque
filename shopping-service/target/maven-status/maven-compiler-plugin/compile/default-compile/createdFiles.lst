@@ -1,0 +1,3 @@
+com\tq\configuration\SpringTransactionConfiguration.class
+com\tq\service\IProvinceService.class
+com\tq\service\impl\ProvinceServiceImpl.class

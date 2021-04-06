@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nexus_maven/nexus_maven.iml" filepath="$PROJECT_DIR$/nexus_maven/nexus_maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nexus_maven_web.iml" filepath="$PROJECT_DIR$/nexus_maven_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-dao/shopping-dao.iml" filepath="$PROJECT_DIR$/shopping-dao/shopping-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-entity/shopping-entity.iml" filepath="$PROJECT_DIR$/shopping-entity/shopping-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-service/shopping-service.iml" filepath="$PROJECT_DIR$/shopping-service/shopping-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shopping-web/shopping-web.iml" filepath="$PROJECT_DIR$/shopping-web/shopping-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shoppring/shoppring.iml" filepath="$PROJECT_DIR$/shoppring/shoppring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_util_nexus/ssm_util_nexus.iml" filepath="$PROJECT_DIR$/ssm_util_nexus/ssm_util_nexus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled3/untitled3.iml" filepath="$PROJECT_DIR$/untitled3/untitled3.iml" />
+    </modules>
+  </component>
+</project>
